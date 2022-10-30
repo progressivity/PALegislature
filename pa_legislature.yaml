@@ -1,0 +1,42 @@
+tables:
+    sessions:
+    - id
+    - chamber
+    - year
+    - session_index
+    - name
+    - last_crawl
+    session_days:
+    - id
+    - session_id
+    - date
+    - last_crawl
+    roll_calls:
+    - id
+    - day_id
+    - session_year    # Sometimes not redundant
+    - session_index   # Ditto
+    - chamber
+    - number
+    - name
+    - stamp
+    - last_crawl
+    votes:
+    - roll_id
+    - name
+    - number
+    - vote
+types:
+    id: int
+    chamber: Chamber
+    year: int
+    session_index: int
+    last_crawl: timestamp
+    session_id: int
+    date: date
+    day_id: int
+    session_year: int
+    number: int
+    stamp: timestamp
+    roll_id: int
+    vote: Vote
