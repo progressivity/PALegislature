@@ -11,6 +11,10 @@ import urllib.parse
 from pa_legislature import PALegislatureDB, Chamber, Vote
 
 CACHE_FOLDER = pathlib.Path('.cached_html')
+USER_AGENT = {
+    'User-Agent': 'PALegislature Bot',
+    'From': 'davidvlu@gmail.com'
+}
 
 
 def get_page(url, name, use_cached=False):
@@ -19,7 +23,7 @@ def get_page(url, name, use_cached=False):
     if use_cached and cache_path.exists():
         contents = open(cache_path).read()
     else:
-        req = requests.get(url)
+        req = requests.get(url, headers=USER_AGENT)
         contents = req.text
 
         if use_cached:
