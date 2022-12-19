@@ -27,6 +27,27 @@ tables:
     - name
     - vote
     - member_id
+    members:
+    - id
+    - house_archive_id
+    - house_current_id
+    - senate_archive_id
+    - senate_current_id
+    - first
+    - middle
+    - last
+    - suffix
+    - dob
+    - last_crawl
+    member_crawl:
+    - name
+    - last_crawl
+    service:
+    - member_id
+    - year
+    - chamber
+    - district
+    - party
 types:
     id: int
     chamber: Chamber
@@ -42,3 +63,9 @@ types:
     roll_id: int
     vote: Vote
     member_id: int
+    house_archive_id: int
+    house_current_id: int
+    senate_archive_id: int
+    senate_current_id: int
+    dob: date
+    district: int

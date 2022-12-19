@@ -1,4 +1,5 @@
 import bidict
+import collections
 from metro_db import MetroDB
 from enum import IntEnum
 
@@ -46,3 +47,47 @@ class PALegislatureDB(MetroDB):
             Chamber,
             Vote,
         ])
+
+    def get_crawl_statuses(self, rolls=None):
+        day_total = collections.Counter()
+        day_crawled = collections.Counter()
+        session_id_to_key = {}
+
+        days = {d['id']: d for d in self.query('SELECT * FROM session_days')}
+
+        for session in self.query('SELECT year, chamber, id FROM sessions ORDER BY year'):
+            key = session['year'], session['chamber']
+            sid = session['id']
+            session_id_to_key[sid] = key
+
+        for day in days.values():
+            key = session_id_to_key[day['session_id']]
+            day_total[key] += 1
+            if day['last_crawl']:
+                day_crawled[key] += 1
+
+        roll_total = collections.Counter()
+        roll_crawled = collections.Counter()
+
+        if rolls is None:
+            rolls = {d['id']: d for d in self.query('SELECT * FROM roll_calls')}
+
+        for roll in rolls.values():
+            day = days[roll['day_id']]
+            key = session_id_to_key[day['session_id']]
+            roll_total[key] += 1
+            if roll['last_crawl']:
+                roll_crawled[key] += 1
+
+        statuses = {}
+        for key in day_total:
+            if day_total[key] == 0 or roll_total[key] == 0:
+                statuses[key] = None
+            elif day_total[key] == day_crawled[key]:
+                if roll_total[key] == roll_crawled[key]:
+                    statuses[key] = 'complete'
+                else:
+                    statuses[key] = 'rolls missing'
+            else:
+                statuses[key] = 'days missing'
+        return statuses

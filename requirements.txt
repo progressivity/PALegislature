@@ -1,5 +1,7 @@
 beautifulsoup4
 click
 metro_db
+nameparser
+nicknames
 requests
 urllib3

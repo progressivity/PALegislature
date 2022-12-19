@@ -21,6 +21,10 @@ repos:
   - id: codespell
     args:
     - --write-changes
+    exclude: >
+        (?x)^(
+        .*\.csv
+        )$
   rev: v2.1.0
 - repo: https://github.com/pre-commit/mirrors-autopep8
   hooks:
