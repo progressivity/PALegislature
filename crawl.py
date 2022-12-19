@@ -163,6 +163,7 @@ def update_roll(db, roll):
     params['sess_ind'] = roll['session_index']
     params['rc_body'] = chamber_arg(chamber)
     params['rc_nbr'] = roll['number']
+    session_id = db.lookup('session_id', 'session_days', {'id': roll['day_id']})
 
     full_url = url + urllib.parse.urlencode(params)
     click.secho(f'Getting {chamber} vote #{roll["number"]}', fg='cyan', nl=False)
@@ -181,6 +182,7 @@ def update_roll(db, roll):
         name = kids[2].strip()
 
         vote_d = {
+            'session_id': session_id,
             'roll_id': roll['id'],
             'name': name,
             'vote': Vote.from_letter(vote),

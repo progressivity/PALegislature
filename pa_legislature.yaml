@@ -22,10 +22,11 @@ tables:
     - stamp
     - last_crawl
     votes:
+    - session_id  # just for ease of indexing
     - roll_id
     - name
-    - number
     - vote
+    - member_id
 types:
     id: int
     chamber: Chamber
@@ -40,3 +41,4 @@ types:
     stamp: timestamp
     roll_id: int
     vote: Vote
+    member_id: int
