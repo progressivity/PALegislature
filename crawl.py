@@ -47,9 +47,9 @@ def update_session_years(db, chamber, year=None, index=None):
 
     full_url = url + urllib.parse.urlencode(params)
     if year is None:
-        click.secho(f'Updating {chamber.name.title()} Session List', fg='blue', nl=False)
+        click.secho(f'Updating {chamber} Session List', fg='blue', nl=False)
     else:
-        click.secho(f'Updating {chamber.name.title()} Session: {year}/{index}', fg='blue', nl=False)
+        click.secho(f'Updating {chamber} Session: {year}/{index}', fg='blue', nl=False)
 
     click.secho(f' ({full_url})', fg='bright_black')
 
@@ -115,7 +115,7 @@ def update_day(db, day_d):
 
     full_url = url + urllib.parse.urlencode(params)
 
-    click.secho(f'Updating {chamber.name.title()} on {params["SessionDate"]}', fg='cyan', nl=False)
+    click.secho(f'Updating {chamber} on {params["SessionDate"]}', fg='cyan', nl=False)
     click.secho(f' ({full_url})', fg='bright_black')
 
     soup = get_page(full_url, 'day')
@@ -165,7 +165,7 @@ def update_roll(db, roll):
     params['rc_nbr'] = roll['number']
 
     full_url = url + urllib.parse.urlencode(params)
-    click.secho(f'Getting {chamber.name.title()} vote #{roll["number"]}', fg='cyan', nl=False)
+    click.secho(f'Getting {chamber} vote #{roll["number"]}', fg='cyan', nl=False)
     click.secho(f' ({full_url})', fg='bright_black')
 
     soup = get_page(full_url, 'roll')

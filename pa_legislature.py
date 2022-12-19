@@ -15,6 +15,12 @@ class Chamber(IntEnum):
             return Chamber.SENATE
         raise RuntimeError(f'Cannot convert {repr(s)} to a Chamber')
 
+    def __str__(self):
+        return self.name.title()
+
+    def __repr__(self):
+        return self.__str__()
+
 
 class Vote(IntEnum):
     YEA = 1
