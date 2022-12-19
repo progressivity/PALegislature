@@ -1,0 +1,409 @@
+Name,Number,Date,Nikil Saval,Christine M. Tartaglione,Sharif Street,Art Haywood,John Patrick Sabatina Jr.,Robert M. Tomlinson,Vincent J. Hughes,Anthony H. Williams,John I. Kane,Steven J. Santarsiero,Judith L. Schwank,Maria Collett,Scott Martin,John T. Yudichak,John DiSanto,Patrick M. Browne,Amanda M. Cappelletti,Lisa M. Boscola,Carolyn T. Comitta,Lisa Baker,Scott E. Hutchinson,Marty Flynn,John P. Blake,Gene Yaw,Bob Mensch,Cris Dush,Timothy P. Kearney,John R. Gordner,Kristin Phillips-Hill,David G. Argall,Judy Ward,Mike Regan,Patrick J. Stefano,Doug Mastriano,Jake Corman,Wayne Langerholc,Ryan P. Aument,Devlin J. Robinson,Lindsey M. Williams,Kim L. Ward,Mario M. Scavello,Joe Pittman,Wayne D. Fontana,Jay Costa,Katie J. Muth,James R. Brewster,Camera Bartolotta,Elder A. Vogel,Chris Gebhard,David J Arnold Jr,Daniel Laughlin,Michele Brooks
+District,,,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,48,49,50
+Party,,,Democrat,Democrat,Democrat,Democrat,Democrat,Republican,Democrat,Democrat,Democrat,Democrat,Democrat,Democrat,Republican,Independent,Republican,Republican,Democrat,Democrat,Democrat,Republican,Republican,Democrat,Democrat,Republican,Republican,Republican,Democrat,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democrat,Republican,Republican,Republican,Democrat,Democrat,Democrat,Democrat,Republican,Republican,Republican,Republican,Republican,Republican
+Motion to Require masks for opening day,1,2021-01-05 12:36:00,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,Y,,,Y,,Y
+Motion for the Previous Question,2,2021-01-05 13:00:00,,Y,,Y,,N,,Y,,Y,,Y,,N,,N,,Y,,N,,,Y,,N,,Y,,N,,N,,N,,N,,N,,Y,,N,,Y,,Y,,N,,,N,,N
+Motion to Remove the Presiding Officer for the day,3,2021-01-05 13:09:00,,N,,N,,Y,,N,,N,,N,,Y,,Y,,N,,Y,,,N,,Y,,N,,Y,,Y,,Y,,Y,,Y,,N,,Y,,N,,N,,Y,,,Y,,Y
+Motion to Lay on the Table election returns for Senate District 45,4,2021-01-05 13:11:00,,N,,N,,Y,,N,,N,,N,,Y,,Y,,N,,Y,,,N,,Y,,N,,Y,,Y,,Y,,Y,,Y,,N,,Y,,N,,N,,Y,,,Y,,Y
+QUORUM  Yeas = Present,5,2021-01-05 13:36:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,,X,Y,Y
+Election of President Pro Tempore,6,2021-01-05 14:00:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,,Y,Y,,Y,Y,Y
+Election of Secretary of the Senate,7,2021-01-05 14:28:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,,Y,Y,,Y,Y,Y
+Election of Chief Clerk of the Senate,8,2021-01-05 14:34:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,,Y,Y,,Y,Y,Y
+SR 1,9,2021-01-05 15:24:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,,Y,Y,,Y,Y,Y
+SR 2,10,2021-01-05 15:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,,Y,Y,,Y,Y,Y
+"SR 1, SR 1 - Reconsidered",11,2021-01-05 15:56:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,,Y,Y,,Y,Y,Y
+"SR 2, SR 2 - Reconsidered",12,2021-01-05 15:58:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,,Y,Y,,Y,Y,Y
+SR 3,13,2021-01-05 16:21:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,,Y,Y,,Y,Y,Y
+"SR 4, Motion to refer SR 4 to Rules",14,2021-01-05 16:34:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,,Y,Y,,Y,Y,Y
+Motion to place Election Contest Petition and Response on the record,15,2021-01-05 16:43:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,,Y,Y,,Y,Y,Y
+Motion to dismiss Election Contest Petition,16,2021-01-05 16:45:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,,N,N,,N,N,N
+Motion to set aside SD 45 and no vacancy declared until Senate further acts,17,2021-01-05 16:50:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,,Y,Y,,Y,Y,Y
+Motion to establish a Special Committee on Election Integrity and Reform,18,2021-01-05 16:57:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,,Y,Y,,Y,Y,Y
+Weekly Recess,19,2021-01-25 13:22:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SR 17, Condolence Resolution",20,2021-01-26 13:34:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 2 PN 86, 2021 A199, BOSCOLA Amendment No. A-0199",21,2021-01-26 16:39:00,N,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,N,,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,,,N,N
+"SB 2 PN 86, 2021 A186, Motion to Table BOSCOLA Amendment No. A-0186",22,2021-01-26 16:45:00,N,N,N,Y,N,X,N,N,N,N,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,,,Y,Y
+"SB 2 PN 86, Final Passage",23,2021-01-26 19:10:00,N,N,N,N,N,X,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SR 21, Condolence Resolution",24,2021-01-27 11:37:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 87 PN 64, Final Passage",25,2021-01-27 11:57:00,N,Y,N,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 109 PN 102, 2021 A205, SAVAL Amendment No. A-0205",26,2021-01-27 12:06:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,,,N,N
+"SB 109 PN 102, Final Passage",27,2021-01-27 12:27:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+Weekly Recess,28,2021-02-03 11:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 81 PN 59, Final Passage",29,2021-02-03 11:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 49 PN 31, Final Passage",30,2021-02-05 12:08:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 109 PN 144, Concur in House Amendments",31,2021-02-05 12:41:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 84 PN 66, Final Passage",32,2021-02-05 12:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 85 PN 141, Final Passage",33,2021-02-05 12:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 86 PN 68, Final Passage",34,2021-02-05 12:57:00,Y,N,N,Y,N,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SB 78 PN 65, Agree to the bill on Second Consideration",35,2021-02-22 14:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 55 PN 32, Final Passage",36,2021-02-22 16:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"HB 326 PN 388, Agree to the bill on Second Consideration",37,2021-02-23 13:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"SB 36 PN 17, Final Passage",38,2021-02-23 15:23:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"SB 64 PN 40, Final Passage",39,2021-02-23 15:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,X,N,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,Y,Y,,,Y,Y
+"SB 158 PN 140, Final Passage",40,2021-02-23 15:27:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"SR 32, Condolence Resolution",41,2021-02-24 11:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"HB 12 PN 8, Final Passage",42,2021-02-24 13:25:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"HB 16 PN 10, Final Passage",43,2021-02-24 13:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"SB 96 PN 229, Final Passage",44,2021-02-24 13:27:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"SB 155 PN 227, Final Passage",45,2021-02-24 13:31:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"HB 326 PN 388, Final Passage",46,2021-02-24 13:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+Weekly Recess,47,2021-03-15 14:24:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 70 PN 228, Final Passage",48,2021-03-15 16:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"HB 11 PN 872, Final Passage",49,2021-03-15 17:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 147 PN 252, Motion to Agree to the Bill on Second Consideration",50,2021-03-16 13:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 116 PN 87, Final Passage",51,2021-03-16 14:46:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"HB 157 PN 122, Final Passage",52,2021-03-16 14:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+EXEC  Executive Nominations (Attached),53,2021-03-16 14:53:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 137 PN 110, Motion to Agree to the Bill on Second Consideration",54,2021-03-17 11:18:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 120 PN 91, Final Passage",55,2021-03-17 11:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 69 PN 52, Final Passage",56,2021-03-17 11:56:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+Weekly Recess,57,2021-03-22 18:23:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 89 PN 179, Motion to Agree to the Bill on Second Consideration",58,2021-03-23 13:12:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"HB 14 PN 1017, Constitutional Point of Order to Amendment No. 0593",59,2021-03-23 16:59:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"HB 14 PN 1017, Final Passage",60,2021-03-23 18:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,,,Y,Y,N,Y,Y,Y,Y,N,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 420 PN 487, Motion to Agree to the Bill on Second Consideration",61,2021-03-24 10:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 89 PN 179, Final Passage",62,2021-03-24 10:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 191 PN 442, Final Passage",63,2021-03-24 10:26:00,N,Y,N,N,N,Y,N,N,N,N,N,N,Y,N,Y,Y,N,Y,N,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SB 411 PN 489, Final Passage",64,2021-03-24 10:27:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 191 PN 442, Final Passage-Reconsidered",65,2021-03-24 10:40:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,N,Y,Y,N,Y,N,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal January 5, 2021",66,2021-04-19 13:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+SR 90 PN 615,67,2021-04-19 13:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 247 PN 215, Final Passage",68,2021-04-19 15:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 420 PN 487, Final Passage",69,2021-04-19 15:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+RECESS  Weekly Recess,70,2021-04-20 13:24:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,X
+"HB 203 PN 239, Final Passage",71,2021-04-20 15:37:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,X
+"SB 248 PN 216, Final Passage",72,2021-04-20 15:44:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,X
+"SB 317 PN 325, Final Passage",73,2021-04-20 15:48:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,X
+"SB 381 PN 367, Final Passage",74,2021-04-20 15:53:00,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,X
+"SB 382 PN 309, 2021 A718, LANGERHOLC Amendment No. A-0718",75,2021-04-20 15:57:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,X
+EXEC  Executive Nominations (Attached),76,2021-04-20 16:07:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,X
+"JOURNAL  Approval of the previous days Journal January 13, 2021",77,2021-04-21 11:24:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 114 PN 114, Final Passage",78,2021-04-21 11:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 282 PN 266, Final Passage",79,2021-04-21 11:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"HB 766 PN 1283, Final Passage",80,2021-04-21 11:34:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+SR 29 PN 247,81,2021-04-21 11:40:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal January 22, 2021",82,2021-04-27 13:39:00,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 106 PN 71, Final Passage",83,2021-04-27 16:15:00,Y,Y,Y,Y,Y,X,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,,,Y,Y
+"HB 110 PN 78, Final Passage",84,2021-04-27 16:16:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 190 PN 619, Final Passage",85,2021-04-27 16:23:00,N,N,N,N,N,X,N,N,N,Y,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,,Y,Y
+"SB 382 PN 638, Final Passage",86,2021-04-27 17:17:00,N,N,N,N,N,X,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal January 25, 2021",87,2021-04-28 11:24:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 74 PN 684, Final Passage",88,2021-04-28 11:38:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 83 PN 483, Final Passage",89,2021-04-28 11:39:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 108 PN 73, Final Passage",90,2021-04-28 11:49:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 425 PN 616, Final Passage",91,2021-04-28 11:50:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 434 PN 441, Final Passage",92,2021-04-28 11:54:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal January 26, 2021",93,2021-05-10 13:21:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"HB 56 PN 39, Final Passage",95,2021-05-10 15:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"HB 26 PN 14, Final Passage",94,2021-05-10 15:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"HB 124 PN 1324, Final Passage",96,2021-05-10 15:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"SB 147 PN 685, Final Passage",97,2021-05-10 15:23:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"SB 274 PN 256, Final Passage",98,2021-05-10 15:25:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal January 27, 2021",99,2021-05-11 13:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,X
+"SB 156 PN 734, Final Passage",100,2021-05-11 15:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 251 PN 275, Final Passage",101,2021-05-11 15:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 323 PN 301, Final Passage",102,2021-05-11 15:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+SSHER0001  Resolution A,103,2021-05-11 15:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal February 3, February 5, 2021",104,2021-05-12 11:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 115 PN 473, 2021 A961, COLLETT Amendment No. A-0961",105,2021-05-12 11:42:00,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,N,Y,N,N,,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,,,N,N
+"SB 115 PN 473, Final Passage",106,2021-05-12 11:58:00,N,N,N,Y,N,Y,N,N,N,N,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,Y,Y,Y,,,Y,N
+"SB 432 PN 617, Final Passage",107,2021-05-12 12:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 445 PN 636, Final Passage",108,2021-05-12 12:08:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 664 PN 753, Final Passage",109,2021-05-12 12:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+EXEC  Executive Nominations (Attached),110,2021-05-12 12:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+Weekly Recess Resolution,111,2021-05-24 13:29:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 82 PN 60, Final Passage",112,2021-05-24 15:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 403 PN 394, Final Passage",113,2021-05-24 15:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 521 PN 541, Final Passage",114,2021-05-24 15:22:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal February 22, 2021",115,2021-05-25 13:35:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 243 PN 688, Final Passage",116,2021-05-25 16:06:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 341 PN 375, Final Passage",117,2021-05-25 16:19:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SB 426 PN 430, Final Passage",118,2021-05-25 16:23:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SB 442 PN 460, Final Passage",119,2021-05-25 16:29:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+EXEC  Executive Nominations (Attached),120,2021-05-25 16:38:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal February 23, February 24, 2021",121,2021-05-26 11:23:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 28 PN 10, 2021 A954, MUTH Amendment No. A-0954",122,2021-05-26 11:44:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,,,N,N
+"SB 28 PN 10, 2021 A1165, MUTH Amendment No. A-1165",123,2021-05-26 11:47:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,N,Y,N,N,,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,,,N,N
+"SB 28 PN 10, Final Passage",124,2021-05-26 11:55:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SB 126 PN 98, Final Passage",125,2021-05-26 12:03:00,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SB 520 PN 526, Final Passage",126,2021-05-26 12:08:00,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"HB 832 PN 814, Final Passage",127,2021-05-26 12:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"HB 1101 PN 1132, Final Passage",128,2021-05-26 12:12:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+RECESS  Weekly Recess,129,2021-06-07 13:20:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+SR 128 PN 845,130,2021-06-07 13:41:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 479 PN 504, Final Passage",132,2021-06-07 16:14:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 477 PN 689, Final Passage",131,2021-06-07 16:14:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,N
+"SB 484 PN 500, Final Passage",133,2021-06-07 16:15:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 532 PN 544, Final Passage",134,2021-06-07 16:16:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal March 15, 2021",135,2021-06-08 13:20:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 351 PN 353, Final Passage",136,2021-06-08 16:25:00,N,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"HB 464 PN 1392, Final Passage",137,2021-06-08 16:26:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 618 PN 712, 2021 A1435, PHILLIPS-HILL Amendment No. A-1435",138,2021-06-08 16:30:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 618 PN 712, 2021 A1494, REGAN Amendment No. A-1494",139,2021-06-08 16:35:00,N,X,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"SB 618 PN 712, 2021 A1518, WARD, J. Amendment No. A-1518",140,2021-06-08 16:43:00,N,X,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,,,Y,Y
+"JOURNAL  Approval of the previous days Journal March 16, 2021",141,2021-06-09 12:25:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y
+"SB 486 PN 515, Final Passage",142,2021-06-09 16:37:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 516 PN 802, Final Passage",143,2021-06-09 16:42:00,N,X,N,N,Y,N,N,N,N,Y,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"SB 554 PN 875, Final Passage",144,2021-06-09 16:45:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 618 PN 876, Final Passage",145,2021-06-09 16:57:00,N,X,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 854 PN 1155, 2021 A1582, WARD, K. Amendment No. A-1582",146,2021-06-09 21:59:00,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 236 PN 205, Motion to agree to the Bill on Second Consideration",147,2021-06-10 09:21:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HR 106 PN 1751, 2021 A1584, WARD, K. Amendment No. A-1584",148,2021-06-10 10:02:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 854 PN 1752, Final Passage",149,2021-06-10 10:30:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+HR 106 PN 1753,150,2021-06-10 11:14:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+Weekly Recess,151,2021-06-14 13:25:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 423 PN 854, Final Passage",152,2021-06-14 16:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 524 PN 599, 2021 A1489, KEARNEY Amendment No. A-1489",153,2021-06-14 16:27:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"SB 524 PN 599, Final Passage",154,2021-06-14 16:31:00,N,N,N,N,N,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"SB 119 PN 125, Final Passage",155,2021-06-14 17:38:00,N,Y,N,N,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"SB 319 PN 327, Final Passage",156,2021-06-14 17:46:00,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 533 PN 511, 2021 A1657, YAW Amendment No. A-1657",157,2021-06-14 17:50:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal March 17, 2021",158,2021-06-15 13:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 478 PN 503, Final Passage",159,2021-06-15 16:31:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 503 PN 527, Final Passage",160,2021-06-15 16:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 533 PN 896, Final Passage",161,2021-06-15 16:35:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 563 PN 609, Final Passage",162,2021-06-15 16:37:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 588 PN 648, Final Passage",163,2021-06-15 16:49:00,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+SR 142 PN 895,164,2021-06-15 16:57:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,,Y,Y
+EXEC  Executive Nominations (Attached),165,2021-06-15 17:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal March 22, 2021",166,2021-06-16 11:24:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 255 PN 230, Final Passage",167,2021-06-16 12:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 265 PN 242, Final Passage",168,2021-06-16 12:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 267 PN 244, Final Passage",170,2021-06-16 12:21:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 266 PN 243, Final Passage",169,2021-06-16 12:21:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,,Y,Y,N,Y,Y,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 268 PN 245, Final Passage",171,2021-06-16 12:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 269 PN 246, Final Passage",172,2021-06-16 12:23:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 416 PN 910, Final Passage",173,2021-06-16 12:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 561 PN 909, Final Passage",174,2021-06-16 12:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 649 PN 1026, Final Passage",175,2021-06-16 12:36:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"HB 765 PN 1420, Final Passage",176,2021-06-16 12:40:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1154 PN 1844, Motion to Suspend Senate Rule 12",177,2021-06-16 13:08:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 1154 PN 1844, Motion to Revert to Prior Printer's Number 1421",178,2021-06-16 13:19:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"HB 1154 PN 1844, Final Passage",179,2021-06-16 13:54:00,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,N
+"JOURNAL  Approval of the previous days Journal March 23, 2021",180,2021-06-21 13:29:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 78 PN 65, 2021 A994, BAKER Amendment No. A-0994",181,2021-06-21 16:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 324 PN 850, Final Passage",182,2021-06-21 16:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 439 PN 457, Final Passage",183,2021-06-21 16:21:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 559 PN 738, Final Passage",184,2021-06-21 16:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 419 PN 418, 2021 A1929, SCAVELLO Amendment No. A-1929",185,2021-06-21 16:31:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations (Attached),186,2021-06-21 16:35:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal March 24, 2021",187,2021-06-22 13:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 208 PN 177, Final Passage",188,2021-06-22 16:49:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 305 PN 371, Final Passage",189,2021-06-22 16:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 419 PN 932, Final Passage",190,2021-06-22 16:55:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 664 PN 1047, Final Passage",191,2021-06-22 16:56:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 668 PN 756, Final Passage",192,2021-06-22 16:58:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 434 PN 877, Concur in House Amendments",193,2021-06-22 17:07:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 769 PN 898, Final Passage",194,2021-06-22 17:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations  Secretary of Education Noe Ortega,195,2021-06-22 17:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations  Secretary of Labor and Industry Jennifer L. Berrier,196,2021-06-22 17:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous day Journal April 19, 2021",197,2021-06-23 11:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 196 PN 162, Final Passage",198,2021-06-23 14:58:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 550 PN 686, Final Passage",199,2021-06-23 15:01:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+SR 144 PN 926,200,2021-06-23 15:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 735 PN 899, 2021 A1977, WARD, J. Amendment No. A-1977",201,2021-06-23 15:32:00,N,N,N,Y,N,Y,N,N,N,N,N,Y,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 735 PN 899, 2021 A1909, Motion to Table MUTH Amendment No. A-1909",202,2021-06-23 15:40:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 735 PN 899, 2021 A1931, BOSCOLA Amendment No. A-1931",203,2021-06-23 15:44:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"SB 735 PN 899, 2021 A1954, FONTANA Amendment No. A-1954",204,2021-06-23 15:50:00,Y,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"SB 735 PN 899, 2021 A1965, Motion to Table CAPPELLETTI Amendment No. A-1965",205,2021-06-23 15:55:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 827 PN 1901, Final Passage",206,2021-06-23 16:08:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 735 PN 952, Final Passage",207,2021-06-23 17:30:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal April 20, 2021",208,2021-06-24 10:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 78 PN 930, Final Passage",209,2021-06-24 13:53:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"HB 101 PN 1008, Final Passage",210,2021-06-24 13:58:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,N,Y
+"HB 156 PN 121, Final Passage",211,2021-06-24 14:01:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 178 PN 1370, Final Passage",212,2021-06-24 14:02:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 241 PN 200, Final Passage",213,2021-06-24 14:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 675 PN 746, Final Passage",214,2021-06-24 14:07:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 741 PN 1866, Final Passage",215,2021-06-24 14:08:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 759 PN 936, Final Passage",216,2021-06-24 14:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 859 PN 1309, Final Passage",217,2021-06-24 14:10:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+SR 139 PN 947,218,2021-06-24 14:20:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 618 PN 945, Concur in House Amendments",219,2021-06-24 14:43:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 664 PN 954, Concur in House Amendments",220,2021-06-24 14:44:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 480 PN 505, Final Passage",221,2021-06-24 14:48:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal April 21, 2021",222,2021-06-25 10:25:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1300 PN 1869, 2021 A2042, Motion to Table COSTA Amendment No. A-2042",223,2021-06-25 13:36:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 1300 PN 1869, 2021 A2042, Final Passage",224,2021-06-25 14:34:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 1508 PN 1603, Final Passage",225,2021-06-25 14:39:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1509 PN 1604, Final Passage",226,2021-06-25 14:40:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1511 PN 1606, Final Passage",228,2021-06-25 14:41:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1510 PN 1605, Final Passage",227,2021-06-25 14:41:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1512 PN 1607, Final Passage",229,2021-06-25 14:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1514 PN 1609, Final Passage",231,2021-06-25 14:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1513 PN 1845, Final Passage",230,2021-06-25 14:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1515 PN 1610, Final Passage",232,2021-06-25 14:44:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1516 PN 1611, Final Passage",233,2021-06-25 14:45:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 125 PN 92, Final Passage",234,2021-06-25 14:46:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 184 PN 1884, Final Passage",235,2021-06-25 14:51:00,N,N,N,N,Y,Y,N,N,N,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 246 PN 214, Final Passage",236,2021-06-25 14:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 264 PN 1003, Final Passage",237,2021-06-25 14:53:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 708 PN 900, Final Passage",238,2021-06-25 14:58:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 772 PN 912, Final Passage",239,2021-06-25 14:59:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 843 PN 827, Final Passage",240,2021-06-25 15:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 925 PN 920, Final Passage",241,2021-06-25 15:04:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 954 PN 1323, Final Passage",243,2021-06-25 15:05:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 944 PN 1865, Final Passage",242,2021-06-25 15:05:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1147 PN 1202, Final Passage",244,2021-06-25 15:06:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1349 PN 1443, Final Passage",245,2021-06-25 15:07:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1390 PN 1506, Final Passage",246,2021-06-25 15:08:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1429 PN 1902, Final Passage",247,2021-06-25 15:09:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1431 PN 1547, Final Passage",248,2021-06-25 15:10:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1621 PN 1797, Final Passage",249,2021-06-25 15:11:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+SR 146 PN 956,250,2021-06-25 15:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1147 PN 1202, Final Passage-Reconsidered",251,2021-06-25 15:21:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1024 PN 1823, 2021 A2152, REGAN Amendment No. A-2152",252,2021-06-25 19:25:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N
+"HB 1024 PN 1823, 2021 A2029, Motion to Table STREET Amendment No. A-2029",253,2021-06-25 19:34:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 1348 PN 1932, Final Passage",254,2021-06-25 19:43:00,N,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 574 PN 621, Final Passage",255,2021-06-25 19:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 674 PN 745, Final Passage",256,2021-06-25 19:49:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 336 PN 1933, 2021 A2153, Motion to Table MUTH Amendment No. A-2153",257,2021-06-25 20:01:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 336 PN 1933, 2021 A2155, MUTH Amendment No. A-2155",258,2021-06-25 20:06:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"HB 336 PN 1933, 2021 A2155, Final Passage",259,2021-06-25 20:10:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,N,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 952 PN 1934, Final Passage",260,2021-06-25 20:12:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"HB 957 PN 1852, Final Passage",261,2021-06-25 20:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 397 PN 870, Final Passage",262,2021-06-25 20:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 398 PN 871, Final Passage",263,2021-06-25 20:21:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1024 PN 1936, Final Passage",264,2021-06-25 20:29:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N
+"SB 255 PN 971, Concur in House Amendments",265,2021-06-25 21:42:00,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 381 PN 972, Concur in House Amendments",266,2021-06-25 21:52:00,N,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 411 PN 967, Concur in House Amendments",267,2021-06-25 21:55:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N
+"SB 532 PN 968, Concur in House Amendments",268,2021-06-25 21:56:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations (Attached),269,2021-06-25 22:06:00,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations  Pennsylvania Parole Board Marcus L. Brown,270,2021-06-25 22:07:00,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+RECESS  Weekly Recess,271,2021-06-25 22:10:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal April 27, 2021",272,2021-09-21 13:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HR 139 PN 2150, 2021 A2308, MUTH Amendment No. A-2308",273,2021-09-21 16:52:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,X,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+HR 139 PN 2150,274,2021-09-21 16:53:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 318 PN 326, Final Passage",275,2021-09-21 16:58:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N
+"SB 461 PN 469, Final Passage",276,2021-09-21 17:06:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,X,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 302 PN 905, Final Passage",277,2021-09-21 17:16:00,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 302 PN 905, Final Passage-Reconsidered",278,2021-09-21 17:22:00,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,X,N,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal April 28, 2021",279,2021-09-22 11:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 552 PN 579, Final Passage",280,2021-09-22 11:50:00,N,N,N,Y,N,Y,N,N,N,N,Y,N,Y,Y,Y,X,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"SB 709 PN 1088, Final Passage",281,2021-09-22 11:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 739 PN 1089, Final Passage",282,2021-09-22 11:55:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+Weekly Recess,283,2021-09-27 13:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 153 PN 127, Final Passage",284,2021-09-27 14:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 523 PN 1822, Final Passage",285,2021-09-27 14:49:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 636 PN 755, Final Passage",286,2021-09-27 14:50:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 673 PN 742, Final Passage",287,2021-09-27 14:51:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 795 PN 950, Final Passage",288,2021-09-27 14:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 738 PN 867, Final Passage",289,2021-09-27 15:06:00,N,N,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 764 PN 889, Final Passage",290,2021-09-27 15:15:00,N,N,Y,N,N,Y,N,Y,N,Y,N,N,Y,Y,Y,X,Y,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal May 10, 2021",291,2021-09-28 13:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 396 PN 384, Final Passage",292,2021-09-28 15:24:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 729 PN 831, Final Passage",294,2021-09-28 15:27:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 725 PN 1103, Final Passage",293,2021-09-28 15:27:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 736 PN 840, Final Passage",295,2021-09-28 15:29:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 867 PN 1067, Final Passage",296,2021-09-28 15:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 880 PN 1091, Final Passage",297,2021-09-28 15:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1591 PN 2139, Final Passage",298,2021-09-28 15:34:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 859 PN 1052, Final Passage",299,2021-09-28 15:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal May 11, 2021",300,2021-09-29 11:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 397 PN 1083, Concur in House Amendments",301,2021-09-29 12:08:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 398 PN 1084, Concur in House Amendments",302,2021-09-29 12:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 869 PN 1074, Final Passage",303,2021-09-29 12:10:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1183 PN 1716, Final Passage",305,2021-09-29 12:11:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1182 PN 1715, Final Passage",304,2021-09-29 12:11:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1861 PN 2200, Final Passage",306,2021-09-29 12:12:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1774 PN 2149, Final Passage",307,2021-09-29 12:13:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal May 12, 2021",308,2021-10-18 13:25:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 224 PN 194, 2021 A693, SCHWANK Amendment No. A-693",309,2021-10-18 17:06:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"SB 224 PN 194, 2021 A693, SCHWANK AMENDMENT No. A693 - Reconsidered",310,2021-10-18 17:12:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"SB 224 PN 194, 2021 A693, Final Passage",311,2021-10-18 17:13:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 780 PN 920, Final Passage",312,2021-10-18 17:15:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 847 PN 1039, Final Passage",313,2021-10-18 17:17:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SR 164 PN 1060, 2021 A2580",314,2021-10-18 17:28:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal May 24, 2021",315,2021-10-19 13:29:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 157 PN 139, Final Passage",316,2021-10-19 14:53:00,N,Y,Y,Y,Y,X,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 603 PN 1160, Final Passage",317,2021-10-19 14:58:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 777 PN 917, Final Passage",318,2021-10-19 15:07:00,N,N,N,N,N,X,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 786 PN 1108, Final Passage",319,2021-10-19 15:13:00,N,N,N,N,N,X,N,Y,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations (Attached),320,2021-10-19 15:26:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations  Council of Trustees of Cheyney University Vincent J. Hughes,321,2021-10-19 15:28:00,Y,Y,Y,Y,Y,X,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+RECESS  Weekly Recess,322,2021-10-25 13:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 236 PN 1102, Final Passage",323,2021-10-25 15:05:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 865 PN 1056, Final Passage",324,2021-10-25 15:10:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1452 PN 1573, Final Passage",325,2021-10-25 15:13:00,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"SB 731 PN 1169, Final Passage",326,2021-10-25 15:24:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal May 25, 2021",327,2021-10-26 13:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 814 PN 993, 2021 A2766, YUDICHAK Amendment No. A-2766",328,2021-10-26 15:50:00,N,N,N,Y,Y,Y,N,N,Y,Y,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"SB 827 PN 1009, Final Passage",329,2021-10-26 15:51:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 705 PN 949, Final Passage",330,2021-10-26 16:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N
+"HB 425 PN 2314, Final Passage",331,2021-10-26 16:12:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 814 PN 1178, Final Passage",332,2021-10-26 16:37:00,N,N,N,N,Y,Y,N,N,Y,Y,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the previous days Journal May 26, 2021",333,2021-10-27 12:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+SCRRR0001  Senate Concurrent Regulatory Review Resolution,334,2021-10-27 16:15:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"SB 275 PN 1163, Final Passage",335,2021-10-27 16:27:00,N,Y,N,N,N,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 349 PN 352, Final Passage",336,2021-10-27 16:38:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 420 PN 1110, Concur in House Amendments",337,2021-10-27 16:40:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations (Attached),338,2021-10-27 16:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations (Attached),339,2021-10-27 16:45:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+Weekly Recess Vote,340,2021-11-08 13:31:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 416 PN 2322, Final Passage",341,2021-11-08 16:41:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 849 PN 1043, Final Passage",342,2021-11-08 16:43:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SR 195 PN 1162, 2021 A2885, PHILLIPS-HILL Amendment No. A-2885",343,2021-11-08 17:00:00,N,N,N,X,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+SR 195 PN 1162,344,2021-11-08 17:20:00,N,N,N,X,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+Motion to Return Nominations To Governor,345,2021-11-08 17:23:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations (Attached),346,2021-11-08 17:25:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the Previous Days Journal June 7, 2021",347,2021-11-09 13:28:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 347 PN 350, Final Passage",348,2021-11-09 17:37:00,N,N,N,Y,N,Y,N,N,N,N,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 851 PN 1046, Final Passage",349,2021-11-09 17:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 448 PN 1164, 2021 A2638, Motion to Table SANTARSIERO Amendment No. A-2638",350,2021-11-09 18:15:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 448 PN 1164, 2021 A2892, Motion to Table TARTAGLIONE Amendment No. A-2892",351,2021-11-09 18:18:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+Motion To Recess,352,2021-11-09 18:27:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,N,N,N,N,,N,N
+"SB 448 PN 1164, 2021 A2636, Motion to Table COSTA Amendment No. A-2636",353,2021-11-09 18:30:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 448 PN 1164, 2021 A2904, Motion to Table COLLETT Amendment No. A-2904",354,2021-11-09 18:32:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 448 PN 1164, 2021 A2641, Motion to Table SANTARSIERO Amendment No. A-2641",355,2021-11-09 18:37:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 448 PN 1164, 2021 A2641, Final Passage",356,2021-11-09 19:02:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 565 PN 1212, 2021 A2914, Motion to Table WILLIAMS, A. Amendment No. A-2914",357,2021-11-09 19:27:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 565 PN 1212, 2021 A2925, Motion to Table FONTANA Amendment No. A-2925",358,2021-11-09 19:31:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 565 PN 1212, 2021 A2932, Motion to Table CAPPELLETTI Amendment No. A-2932",359,2021-11-09 19:34:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 565 PN 1212, 2021 A2926, Motion to Table HAYWOOD Amendment No. A-2926",360,2021-11-09 19:39:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 565 PN 1212, 2021 A2926, Final Passage",361,2021-11-09 20:48:00,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"Approval of the Previous Days Journal June 8, 2021",362,2021-11-10 12:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 140 PN 117, Final Passage",363,2021-11-10 12:48:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 470 PN 1226, Final Passage",364,2021-11-10 12:50:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 755 PN 943, Final Passage",365,2021-11-10 12:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 830 PN 1221, Final Passage",366,2021-11-10 12:56:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 915 PN 1225, Final Passage",367,2021-11-10 12:59:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1107 PN 1146, Final Passage",368,2021-11-10 13:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1120 PN 1168, Final Passage",369,2021-11-10 13:01:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 248 PN 1222, Concur in House Amendments",370,2021-11-10 13:56:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+Weekly Recess Vote,371,2021-12-13 13:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 562 PN 594, 2021 A2937, SCAVELLO Amendment No. A-2937",372,2021-12-13 16:29:00,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 706 PN 1090, Final Passage",373,2021-12-13 16:40:00,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 922 PN 1173, Final Passage",374,2021-12-13 16:44:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 937 PN 1203, Final Passage",375,2021-12-13 17:27:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 772 PN 1127, Concur in House Amendments",376,2021-12-13 17:39:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 933 PN 1198, Final Passage",377,2021-12-13 17:48:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 1332 PN 2272, 2021 A2802, WILLIAMS, L. Amendment No. A-2802",378,2021-12-13 17:55:00,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,,N,N,N,Y,N,N,N,X,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,,N,N
+"HB 1332 PN 2272, Final Passage",379,2021-12-13 17:59:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the Previous Days Journal June 9, 2021",380,2021-12-14 13:21:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 428 PN 432, Final Passage",381,2021-12-14 16:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 931 PN 1196, Final Passage",382,2021-12-14 16:38:00,N,N,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 932 PN 1197, Final Passage",383,2021-12-14 16:41:00,N,N,N,N,Y,Y,N,Y,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"HB 1642 PN 2372, Final Passage",384,2021-12-14 16:49:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 1837 PN 2394, Final Passage",385,2021-12-14 16:50:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 337 PN 683, Final Passage",387,2021-12-14 16:54:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 291 PN 257, Final Passage",386,2021-12-14 16:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 562 PN 1274, Final Passage",388,2021-12-14 16:58:00,N,Y,N,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,,Y,Y
+"HB 1260 PN 2320, Final Passage",389,2021-12-14 16:59:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 1255 PN 2532, Final Passage",390,2021-12-14 17:01:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 412 PN 845, 2021 A3233, PHILLIPS-HILL Amendment No. A-3233",391,2021-12-14 17:21:00,N,N,N,N,N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"HB 412 PN 845, 2021 A3233, PHILLIPS-HILL Amendment No. A-3233 Reconsidered",392,2021-12-14 17:32:00,N,N,N,N,N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"JOURNAL  Approval of the Previous Days Journal June 10, 2021",393,2021-12-15 11:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 291 PN 1273, Final Passage",394,2021-12-15 12:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"HB 412 PN 2533, Final Passage",395,2021-12-15 12:23:00,N,N,N,N,N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,Y
+"SB 566 PN 611, 2021 A3160, REGAN Amendment No. A-3160",396,2021-12-15 12:46:00,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,N
+"SB 635 PN 1125, Final Passage",397,2021-12-15 12:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,N,Y,,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,,N,Y
+"SB 904 PN 1140, Final Passage",398,2021-12-15 12:58:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 905 PN 1141, Final Passage",399,2021-12-15 12:59:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 913 PN 1282, Final Passage",400,2021-12-15 13:30:00,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
+"SB 924 PN 1177, Final Passage",401,2021-12-15 14:00:00,N,N,N,N,Y,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"SB 924 PN 1177, Final Passage Reconsidered",402,2021-12-15 14:01:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,,Y,Y
+"HB 2071 PN 2518, Final Passage",403,2021-12-15 14:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+"SB 566 PN 1285, Final Passage",404,2021-12-15 14:40:00,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,N,N,Y,Y,N,,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,,Y,N
+"EXEC  Executive Nominations  Judge, Court of Common Pleas, Venango County Marie T. Veon",406,2021-12-15 14:46:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y
+EXEC  Executive Nominations (Attached),405,2021-12-15 14:46:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,Y
