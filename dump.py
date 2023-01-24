@@ -50,7 +50,12 @@ if __name__ == '__main__':
 
                     if any(not roll['stamp'] for roll in roll_subset):
                         # Some stamps missing, order by id
-                        rolls += sorted(roll_subset, key=lambda d: d['id'])
+                        for roll in sorted(roll_subset, key=lambda d: d['id']):
+                            # Fill in stamp with date
+                            if not roll['stamp']:
+                                roll = dict(roll)
+                                roll['stamp'] = day['date']
+                            rolls.append(roll)
                     else:
                         rolls += sorted(roll_subset, key=lambda d: d['stamp'])
                 if not rolls:
