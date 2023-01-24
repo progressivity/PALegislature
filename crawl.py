@@ -91,9 +91,9 @@ def update_session_years(db, chamber, year=None, index=None):
         header = column.find('h3')
         if not header:
             if found == 0:
-                if datetime.datetime.now().year < year:
-                    return
-                raise RuntimeError('Cannot find h3 in session')
+                if datetime.datetime.now().year >= year:
+                    click.secho('Cannot find h3 on session page. Skipping for now...', fg='yellow')
+                return
             continue
 
         if 'Scheduled' in header.text:
@@ -676,7 +676,7 @@ if __name__ == '__main__':
 
             limit_clause = '' if args.session_limit is None else f'LIMIT {args.session_limit}'
 
-            for session in db.query(f'SELECT * FROM sessions WHERE {crawl_clause} {year_clause}'
+            for session in db.query(f'SELECT * FROM sessions WHERE {crawl_clause} {year_clause} '
                                     f'ORDER BY year, chamber, session_index {limit_clause}'):
                 update_session_years(db, session['chamber'], session['year'], session['session_index'])
 
