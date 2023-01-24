@@ -133,6 +133,7 @@ Votes:
         start: 2013-01-01
         stop: 2013-06-04
         name: MILLER, R.
+    C FREYTIZ: CEPEDA-FREYTIZ
 Rename:
     - from: {house_current_id: 1745}
       to: {first: Donald}
