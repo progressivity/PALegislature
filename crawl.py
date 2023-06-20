@@ -136,7 +136,7 @@ def update_day(db, day_d):
 
     soup = get_page(full_url, 'day')
 
-    link = soup.find('a', text='Floor Roll Call Votes')
+    link = soup.find('a', string='Floor Roll Call Votes')
     if not link:
         click.secho('\tNo votes found', fg='cyan')
         db.update('session_days', {'id': day_d['id'], 'last_crawl': datetime.datetime.now()})
@@ -560,11 +560,16 @@ def update_member(db, member):
         div = soup.find('div', class_='bio-table')
         table = div.find('table')
 
-        life_s = soup.find('h4').text.strip()
+        life_e = soup.find('h4')
+
     else:
         table = soup.find('table', class_='DataTable-Grid')
+        life_e = soup.find('h3')
 
-        life_s = soup.find('h3').text.strip()
+    if life_e:
+        life_s = life_e.text.strip()
+    else:
+        life_s = ''
 
     name_s = soup.find('h1').text.strip()
     name_dict = get_name_dict(name_s)

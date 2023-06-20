@@ -1,7 +1,7 @@
 # PALegislature
 Database of votes from PA Legislative chambers
 
-The data is gathered from [The Official Pennsylvania Legsilature pages](https://www.legis.state.pa.us/), as well as the [House](https://archives.house.state.pa.us/people/house-historical-biographies) and [Senate Historical Biographies](https://www.legis.state.pa.us/cfdocs/legis/BiosHistory/ViewAll.cfm?body=S).
+The data is gathered from [The Official Pennsylvania Legislature pages](https://www.legis.state.pa.us/), as well as the [House](https://archives.house.state.pa.us/people/house-historical-biographies) and [Senate Historical Biographies](https://www.legis.state.pa.us/cfdocs/legis/BiosHistory/ViewAll.cfm?body=S).
 
 The goal is to provide an easily-parsed record of how legislators voted.
 
