@@ -141,6 +141,14 @@ Votes:
         stop: 2013-06-04
         name: MILLER, R.
     C FREYTIZ: CEPEDA-FREYTIZ
+    HARRIS:
+        start: 2024-01-01
+        stop: 2024-09-29
+        name: HARRIS, J.
 Rename:
     - from: {house_current_id: 1745}
       to: {first: Donald}
+    - from: {senate_archive_id: 5319}
+      to: {middle: Mitchell}
+    - from: {house_archive_id: 7513}
+      to: {middle: Berkey}
