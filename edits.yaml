@@ -1,154 +1,154 @@
 2024:
-    House:
-        Adams: null
-        Culver: null
-        Galloway: null
-        Innamorato: null
-        Zabel: null
+  House:
+    Adams:
+    Culver:
+    Galloway:
+    Innamorato:
+    Zabel:
 2022:
-    Senate:
-        Sabatina: null
+  Senate:
+    Sabatina:
 2021:
-    House:
-        Abney: null
-        Covington: null
-        Reese: null
-        Schnee: null
-    Senate:
-        Dillon: null
+  House:
+    Abney:
+    Covington:
+    Reese:
+    Schnee:
+  Senate:
+    Dillon:
 2020:
-    House:
-        Digirolamo: null
-        Nesbit: null
-        Walsh: null
+  House:
+    Digirolamo:
+    Nesbit:
+    Walsh:
 2019:
-    House:
-        Bonner: null
-        Davanzo: null
-        Green: null
-        Tomlinson: null
-    Senate:
-        Arnold: null
-        Reschenthaler: null
+  House:
+    Bonner:
+    Davanzo:
+    Green:
+    Tomlinson:
+  Senate:
+    Arnold:
+    Reschenthaler:
 2018:
-    House:
-        Acosta: null
-        Gergely: null
-        Daniel McNeill: null
-        Neuman: null
-        Petri: null
+  House:
+    Acosta:
+    Gergely:
+    Daniel McNeill:
+    Neuman:
+    Petri:
 2017:
-    House:
-        Austin Davis: null
-        Jeanne McNeill: null
-        Owlett: null
-        Tai: null
+  House:
+    Austin Davis:
+    Jeanne McNeill:
+    Owlett:
+    Tai:
 2016:
-    House:
-        Brendan Boyle: null
-        Bishop: null
-        Brownlee: null
-        Grell: null
-        Hackett: null
-        Krieger: null
-        Cherelle Parker: null
-        Sabatina: null
-        Waters: null
-    Senate:
-        Pileggi: null
+  House:
+    Brendan Boyle:
+    Bishop:
+    Brownlee:
+    Grell:
+    Hackett:
+    Krieger:
+    Cherelle Parker:
+    Sabatina:
+    Waters:
+  Senate:
+    Pileggi:
 2015:
-    House:
-        Christopher Quinn: null
-        Brendan Boyle: null
-        Cook-Artis: null
-        Nelson: null
-        Savage: null
-    Senate:
-        Killion: null
-        Smith: true
-        Stack: true
+  House:
+    Christopher Quinn:
+    Brendan Boyle:
+    Cook-Artis:
+    Nelson:
+    Savage:
+  Senate:
+    Killion:
+    Smith: true
+    Stack: true
 2014:
-    House:
-        DePasquale: null
-        Hess: null
-    Senate:
-        Waugh: null
-        Wonderling: null
+  House:
+    DePasquale:
+    Hess:
+  Senate:
+    Waugh:
+    Wonderling:
 2013:
-    House:
-        Topper: null
-    Senate:
-        Wagner: null
-        Wonderling: null
+  House:
+    Topper:
+  Senate:
+    Wagner:
+    Wonderling:
 2012:
-    House:
-        Johnson: null
-        Dennis O'Brien: null
-        Reichley: null
-        Shapiro: null
-        Wagner: null
-        Jewell Williams: null
-    Senate:
-        Wonderling: null
+  House:
+    Johnson:
+    Dennis O'Brien:
+    Reichley:
+    Shapiro:
+    Wagner:
+    Jewell Williams:
+  Senate:
+    Wonderling:
 2011:
-    House:
-        Dean: null
-        James: null
-        Neilson: null
-        Schmotzer: null
-        Mackenzie: null
-    Senate:
-        Vulakovich: null
-        Wonderling: null
+  House:
+    Dean:
+    James:
+    Neilson:
+    Schmotzer:
+    Mackenzie:
+  Senate:
+    Vulakovich:
+    Wonderling:
 2010:
-    House:
-        Argall: null
-        Dally: null
-        Mensch: null
-        Walko: null
-    Senate:
-        Wonderling: null
+  House:
+    Argall:
+    Dally:
+    Mensch:
+    Walko:
+  Senate:
+    Wonderling:
 2009:
-    House:
-        Hahn: null
-        Ravenstahl: null
-        Toepel: null
-    Senate:
-        Brewster: null
+  House:
+    Hahn:
+    Ravenstahl:
+    Toepel:
+  Senate:
+    Brewster:
 Votes:
-    WHITE DONALD: WHITE, DONALD
-    WHITE MARY JO: WHITE, MARY JO
-    KELLER, M.K.: KELLER, M. K.
-    KELLER:
-        start: 2019-09-16
-        stop: 2019-12-31
-        name: KELLER, M. K.
-    DAVIS:
-        start: 2018-01-01
-        stop: 2018-01-31
-        name: DAVIS, T.
-    QUINN:
-        start: 2016-01-01
-        stop: 2016-08-17
-        name: QUINN, M.
-    MCI. SMITH: MCILVAINE SMITH
-    BRANEKY:
-        start: 2015-08-25
-        stop: 2015-08-26
-        name: KRUEGER
-    MILLER:
-        start: 2013-01-01
-        stop: 2013-06-04
-        name: MILLER, R.
-    C FREYTIZ: CEPEDA-FREYTIZ
-    HARRIS:
-        start: 2024-01-01
-        stop: 2024-09-29
-        name: HARRIS, J.
+  WHITE DONALD: WHITE, DONALD
+  WHITE MARY JO: WHITE, MARY JO
+  KELLER, M.K.: KELLER, M. K.
+  KELLER:
+    start: 2019-09-16
+    stop: 2019-12-31
+    name: KELLER, M. K.
+  DAVIS:
+    start: 2018-01-01
+    stop: 2018-01-31
+    name: DAVIS, T.
+  QUINN:
+    start: 2016-01-01
+    stop: 2016-08-17
+    name: QUINN, M.
+  MCI. SMITH: MCILVAINE SMITH
+  BRANEKY:
+    start: 2015-08-25
+    stop: 2015-08-26
+    name: KRUEGER
+  MILLER:
+    start: 2013-01-01
+    stop: 2013-06-04
+    name: MILLER, R.
+  C FREYTIZ: CEPEDA-FREYTIZ
+  HARRIS:
+    start: 2024-01-01
+    stop: 2024-09-29
+    name: HARRIS, J.
 Rename:
-    - from: {house_current_id: 1745}
-      to: {first: Donald}
-    - from: {senate_archive_id: 5319}
-      to: {middle: Mitchell}
-    - from: {house_archive_id: 7513}
-      to: {middle: Berkey}
+- from: {house_current_id: 1745}
+  to: {first: Donald}
+- from: {senate_archive_id: 5319}
+  to: {middle: Mitchell}
+- from: {house_archive_id: 7513}
+  to: {middle: Berkey}

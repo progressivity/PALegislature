@@ -1,71 +1,71 @@
 tables:
-    sessions:
-    - id
-    - chamber
-    - year
-    - session_index
-    - name
-    - last_crawl
-    session_days:
-    - id
-    - session_id
-    - date
-    - last_crawl
-    roll_calls:
-    - id
-    - day_id
-    - session_year    # Sometimes not redundant
-    - session_index   # Ditto
-    - chamber
-    - number
-    - name
-    - stamp
-    - last_crawl
-    votes:
-    - session_id  # just for ease of indexing
-    - roll_id
-    - name
-    - vote
-    - member_id
-    members:
-    - id
-    - house_archive_id
-    - house_current_id
-    - senate_archive_id
-    - senate_current_id
-    - first
-    - middle
-    - last
-    - suffix
-    - dob
-    - last_crawl
-    member_crawl:
-    - name
-    - last_crawl
-    service:
-    - member_id
-    - year
-    - chamber
-    - district
-    - party
+  sessions:
+  - id
+  - chamber
+  - year
+  - session_index
+  - name
+  - last_crawl
+  session_days:
+  - id
+  - session_id
+  - date
+  - last_crawl
+  roll_calls:
+  - id
+  - day_id
+  - session_year      # Sometimes not redundant
+  - session_index     # Ditto
+  - chamber
+  - number
+  - name
+  - stamp
+  - last_crawl
+  votes:
+  - session_id    # just for ease of indexing
+  - roll_id
+  - name
+  - vote
+  - member_id
+  members:
+  - id
+  - house_archive_id
+  - house_current_id
+  - senate_archive_id
+  - senate_current_id
+  - first
+  - middle
+  - last
+  - suffix
+  - dob
+  - last_crawl
+  member_crawl:
+  - name
+  - last_crawl
+  service:
+  - member_id
+  - year
+  - chamber
+  - district
+  - party
 types:
-    id: int
-    chamber: Chamber
-    year: int
-    session_index: int
-    last_crawl: timestamp
-    session_id: int
-    date: date
-    day_id: int
-    session_year: int
-    number: int
-    stamp: timestamp
-    roll_id: int
-    vote: Vote
-    member_id: int
-    house_archive_id: int
-    house_current_id: int
-    senate_archive_id: int
-    senate_current_id: int
-    dob: date
-    district: int
+  id: int
+  chamber: Chamber
+  year: int
+  session_index: int
+  last_crawl: timestamp
+  session_id: int
+  date: date
+  day_id: int
+  session_year: int
+  number: int
+  stamp: timestamp
+  roll_id: int
+  vote: Vote
+  member_id: int
+  house_archive_id: int
+  house_current_id: int
+  senate_archive_id: int
+  senate_current_id: int
+  dob: date
+  district: int
