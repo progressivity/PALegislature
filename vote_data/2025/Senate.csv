@@ -1,44 +1,239 @@
-Name,Number,Date,Nikil Saval,Christine M. Tartaglione,Sharif Street,Art Haywood,,Frank A. Farry,Vincent J. Hughes,Anthony H. Williams,John I. Kane,Steven J. Santarsiero,Judith L. Schwank,Maria Collett,Scott Martin,Nick Miller,,Jarrett Coleman,Amanda M. Cappelletti,Lisa M. Boscola,Carolyn T. Comitta,Lisa Baker,Scott E. Hutchinson,Marty Flynn,Gene Yaw,Tracy Pennycuick,Cris Dush,Timothy P. Kearney,Lynda Schlegel Culver,Kristin Phillips-Hill,David G. Argall,Judy Ward,,Patrick J. Stefano,Doug Mastriano,Greg Rothman,Wayne Langerholc,Devlin J. Robinson,Lindsey M. Williams,Kim L. Ward,Rosemary M. Brown,Joe Pittman,Wayne D. Fontana,Jay Costa,Katie J. Muth,,Camera Bartolotta,Elder A. Vogel,Chris Gebhard,Daniel Laughlin,Michele Brooks
-District,,,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44,45,46,47,48,49,50
-Party,,,Democrat,Democrat,Democrat,Democrat,Republican,Republican,Democrat,Democrat,Democrat,Democrat,Democrat,Democrat,Republican,Democrat,Democrat,Republican,Democrat,Democrat,Democrat,Republican,Republican,Democrat,Republican,Republican,Republican,Democrat,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democrat,Republican,Republican,Republican,Democrat,Democrat,Democrat,Democrat,Republican,Republican,Republican,Republican,Republican
-QUORUM YEAS = PRESENT,1,2025-01-07 12:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Resolution 2,2,2025-01-07 13:11:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,Y,N,Y,Y,Y,Y,Y,Y
-Senate Resolution 1 Reconsidered,3,2025-01-07 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,Y,N,Y,Y,Y,Y,Y,Y
-Senate Resolution 3,4,2025-01-07 13:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,Y,N,Y,Y,Y,Y,Y,Y
-Senate Resolution 4 Referred to the Committee on Rules,5,2025-01-07 13:22:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,N,N,N,Y,Y,Y,Y,Y
-Senate Resolution 5 Recommit to the Committee on Rules,6,2025-01-07 13:26:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,N,N,N,Y,Y,Y,Y,Y
-Senate Resolution 6 Recommit to the Committee on Rules,7,2025-01-07 13:33:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,X,N,N,N,Y,Y,Y,Y,Y
-Weekly Recess,8,2025-01-27 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 184 PN 0128 motion to consider bill on second consideration,9,2025-01-28 13:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 78 PN 0034 motion to consider bill on second consideration,10,2025-01-29 11:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 184 PN 0128 Final Passage,11,2025-01-29 12:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 153 PN 0103 Final Passage,12,2025-01-29 12:16:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
-Senate Bill 155 PN 0105 Final Passage,13,2025-01-29 12:26:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
-Senate Bill 156 PN 0106 Final Passage,14,2025-01-29 12:31:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
-Senate Bill 157 PN 0107 Final Passage,15,2025-01-29 12:37:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
-Joint Session Resolution,16,2025-02-03 13:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y
-Senate Bill 35 PN 0130 Final Passage,17,2025-02-03 15:49:00,N,N,N,N,Y,N,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,X,Y,Y,Y,Y,Y
-Senate Bill 149 PN 0101 Final Passage,18,2025-02-03 15:53:00,N,N,N,N,Y,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,X,Y,Y,Y,Y,Y
-Senate Bill 154 PN 0104 Final Passage,19,2025-02-03 16:09:00,N,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,X,Y,Y,Y,Y,Y
-Senate Bill 187 PN 0126 Final Passage,20,2025-02-03 16:19:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,X,Y,Y,Y,Y,Y
-Weekly Recess,21,2025-02-04 11:11:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y
-Executive Nominations (Attached),22,2025-02-04 11:28:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y
-Executive Nominations (Attached),23,2025-02-04 11:30:00,Y,Y,N,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,X,Y,Y,Y,Y,Y
-Senate Bill 186 PN 0125 Final Passage,24,2025-02-04 16:19:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y
-"Approval of the Previous Days Journal, January 7, 2025",25,2025-02-05 10:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-House Bill 324 PN 0272 Motion to Table COLEMAN Amendment No. A-0046 A00046,26,2025-02-05 10:51:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
-House Bill 324 PN 0272 Final Passage A00046,27,2025-02-05 11:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 129 PN 0078 Final Passage,28,2025-02-05 11:05:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 173 PN 0181 Final Passage,29,2025-02-05 11:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 210 PN 0150 Final Passage,30,2025-02-05 11:19:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Weekly Recess,31,2025-03-24 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 78 PN 0034 Final Passage,32,2025-03-24 15:59:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-"Approval of the Previous Days Journal, January 23, 2025",33,2025-03-25 13:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 130 PN 0079 Final Passage,34,2025-03-25 15:02:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 146 PN 0131 Final Passage,35,2025-03-25 15:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 202 PN 0134 GEBHARD Amendment No. A-0222 A00222,36,2025-03-25 15:06:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-"Approval of the Previous Days Journal, January 27, 2025",37,2025-03-26 11:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 202 PN 0474 Final Passage,38,2025-03-26 11:45:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
-Senate Bill 403 PN 0382 Final Passage,39,2025-03-26 11:51:00,N,N,N,N,Y,Y,N,N,N,N,Y,N,Y,N,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
-Senate Bill 404 PN 0383 Final Passage,40,2025-03-26 11:56:00,N,N,N,N,Y,Y,N,N,Y,N,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y
-Senate Resolution 46 PN 0378,41,2025-03-26 12:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y
+Name,Number,Date,Nikil Saval,Christine M. Tartaglione,Sharif Street,Art Haywood,Joe Picozzi,Frank A. Farry,Vincent J. Hughes,Anthony H. Williams,John I. Kane,Steven J. Santarsiero,Judith L. Schwank,Maria Collett,Scott Martin,Nick Miller,Patty Kim,Jarrett Coleman,Amanda M. Cappelletti,Lisa M. Boscola,Carolyn T. Comitta,Lisa Baker,Scott E. Hutchinson,Marty Flynn,Gene Yaw,Tracy Pennycuick,Cris Dush,Timothy P. Kearney,Lynda Schlegel Culver,Kristin Phillips-Hill,David G. Argall,Judy Ward,Dawn W. Keefer,Patrick J. Stefano,Doug Mastriano,Greg Rothman,Wayne Langerholc,James Andrew Malone,Devlin J. Robinson,Lindsey M. Williams,Kim L. Ward,Rosemary M. Brown,Joe Pittman,Wayne D. Fontana,Jay Costa,Katie J. Muth,Nick Pisciottano,Camera Bartolotta,Elder A. Vogel,Chris Gebhard,Daniel Laughlin,Michele Brooks
+District,,,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50
+Party,,,Democrat,Democrat,Democrat,Democrat,Republican,Republican,Democrat,Democrat,Democrat,Democrat,Democrat,Democrat,Republican,Democrat,Democrat,Republican,Democrat,Democrat,Democrat,Republican,Republican,Democrat,Republican,Republican,Republican,Democrat,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democrat,Republican,Democrat,Republican,Republican,Republican,Democrat,Democrat,Democrat,Democrat,Republican,Republican,Republican,Republican,Republican
+QUORUM YEAS = PRESENT,1,2025-01-07 12:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Resolution 2,2,2025-01-07 13:11:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,X,Y,N,Y,Y,Y,Y,Y,Y
+Senate Resolution 1 Reconsidered,3,2025-01-07 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,X,Y,N,Y,Y,Y,Y,Y,Y
+Senate Resolution 3,4,2025-01-07 13:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,X,Y,N,Y,Y,Y,Y,Y,Y
+Senate Resolution 4 Referred to the Committee on Rules,5,2025-01-07 13:22:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,X,N,N,N,Y,Y,Y,Y,Y
+Senate Resolution 5 Recommit to the Committee on Rules,6,2025-01-07 13:26:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,X,N,N,N,Y,Y,Y,Y,Y
+Senate Resolution 6 Recommit to the Committee on Rules,7,2025-01-07 13:33:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,X,N,N,N,Y,Y,Y,Y,Y
+Weekly Recess,8,2025-01-27 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 184 PN 0128 motion to consider bill on second consideration,9,2025-01-28 13:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 78 PN 0034 motion to consider bill on second consideration,10,2025-01-29 11:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 184 PN 0128 Final Passage,11,2025-01-29 12:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 153 PN 0103 Final Passage,12,2025-01-29 12:16:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 155 PN 0105 Final Passage,13,2025-01-29 12:26:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 156 PN 0106 Final Passage,14,2025-01-29 12:31:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 157 PN 0107 Final Passage,15,2025-01-29 12:37:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Joint Session Resolution,16,2025-02-03 13:20:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y
+Senate Bill 35 PN 0130 Final Passage,17,2025-02-03 15:49:00,N,N,N,N,Y,N,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,X,Y,Y,Y,Y,Y
+Senate Bill 149 PN 0101 Final Passage,18,2025-02-03 15:53:00,N,N,N,N,Y,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,X,Y,Y,Y,Y,Y
+Senate Bill 154 PN 0104 Final Passage,19,2025-02-03 16:09:00,N,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,Y,Y,N,X,Y,Y,Y,Y,Y
+Senate Bill 187 PN 0126 Final Passage,20,2025-02-03 16:19:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,X,Y,Y,Y,Y,Y
+Weekly Recess,21,2025-02-04 11:11:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y
+Executive Nominations (Attached),22,2025-02-04 11:28:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y
+Executive Nominations (Attached),23,2025-02-04 11:30:00,Y,Y,N,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,N,X,Y,Y,Y,Y,Y
+Senate Bill 186 PN 0125 Final Passage,24,2025-02-04 16:19:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, January 7, 2025",25,2025-02-05 10:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 324 PN 0272 Motion to Table COLEMAN Amendment No. A-0046 A00046,26,2025-02-05 10:51:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,N,Y,N,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
+House Bill 324 PN 0272 Final Passage A00046,27,2025-02-05 11:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 129 PN 0078 Final Passage,28,2025-02-05 11:05:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 173 PN 0181 Final Passage,29,2025-02-05 11:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 210 PN 0150 Final Passage,30,2025-02-05 11:19:00,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Weekly Recess,31,2025-03-24 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 78 PN 0034 Final Passage,32,2025-03-24 15:59:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, January 23, 2025",33,2025-03-25 13:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 130 PN 0079 Final Passage,34,2025-03-25 15:02:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 146 PN 0131 Final Passage,35,2025-03-25 15:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 202 PN 0134 GEBHARD Amendment No. A-0222 A00222,36,2025-03-25 15:06:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, January 27, 2025",37,2025-03-26 11:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 202 PN 0474 Final Passage,38,2025-03-26 11:45:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 403 PN 0382 Final Passage,39,2025-03-26 11:51:00,N,N,N,N,Y,Y,N,N,N,N,Y,N,Y,N,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 404 PN 0383 Final Passage,40,2025-03-26 11:56:00,N,N,N,N,Y,Y,N,N,Y,N,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y
+Senate Resolution 46 PN 0378,41,2025-03-26 12:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y
+"Approval of the Previous Days Journal, January 28, 2025",42,2025-03-31 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 471 PN 0425 Final Passage,43,2025-03-31 15:00:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y
+Senate Bill 490 PN 0444 Final Passage,44,2025-03-31 15:22:00,N,N,N,N,Y,Y,N,N,N,N,Y,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, January 29, 2025",45,2025-04-01 13:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 92 PN 0472 Final Passage,46,2025-04-01 15:27:00,N,N,N,N,Y,Y,N,N,N,Y,Y,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y
+Senate Bill 185 PN 0487 Final Passage,47,2025-04-01 15:31:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Senate Bill 347 PN 0284 Final Passage,48,2025-04-01 16:10:00,N,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Senate Bill 96 PN 0051 Final Passage,49,2025-04-01 16:21:00,N,N,N,Y,Y,Y,N,N,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, February 3, 2025",50,2025-04-02 11:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 315 PN 0249 Final Passage,51,2025-04-02 12:02:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 472 PN 0427 Final Passage,52,2025-04-02 12:10:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 475 PN 0430 Final Passage,53,2025-04-02 12:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Executive Nominations (Attached),54,2025-04-02 12:29:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Weekly Recess,55,2025-05-05 13:30:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 255 PN 0207 Final Passage,56,2025-05-05 15:45:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 518 PN 0481 Final Passage,57,2025-05-05 15:48:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 466 PN 0485 Final Passage,58,2025-05-05 15:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, February 4, 2025",59,2025-05-06 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 115 PN 0066 PICOZZI Amendment No. A-0492 A00492,60,2025-05-06 15:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 349 PN 0286 Final Passage,61,2025-05-06 15:49:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Senate Bill 9 PN 0177 Final Passage,62,2025-05-06 17:21:00,N,Y,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, February 5, 2025",63,2025-05-07 11:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 115 PN 0757 Final Passage,64,2025-05-07 12:34:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Senate Bill 232 PN 0185 Final Passage,65,2025-05-07 12:36:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 308 PN 0324 Final Passage,66,2025-05-07 12:39:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 481 PN 0439 Final Passage,67,2025-05-07 12:45:00,N,N,Y,Y,Y,Y,N,Y,N,Y,Y,N,Y,N,Y,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 731 PN 0749 Motion to consider bill on second consideration,68,2025-05-12 13:15:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Resolution 94 PN 0702,69,2025-05-12 16:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 226 PN 0179 Final Passage,70,2025-05-12 16:25:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y
+Senate Bill 227 PN 0173 Final Passage,71,2025-05-12 16:28:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y
+Senate Bill 246 PN 0752 KIM Amendment No. A-0710 A00710,72,2025-05-12 16:32:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 327 PN 0297 Final Passage,73,2025-05-12 16:34:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 367 PN 0748 Final Passage,74,2025-05-12 16:35:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Weekly Recess,75,2025-05-13 13:18:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 90 PN 0045 Final Passage,76,2025-05-13 13:46:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 246 PN 0764 Final Passage,77,2025-05-13 13:54:00,N,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 310 PN 0765 Final Passage,78,2025-05-13 13:58:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
+Senate Resolution 82 PN 0651,79,2025-05-13 14:06:00,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Weekly Recess,80,2025-06-02 14:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 731 PN 0749 Final Passage,81,2025-06-02 16:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 302 PN 0762 Final Passage,82,2025-06-02 16:37:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 417 PN 0351 Motion to Table,83,2025-06-03 13:15:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 89 PN 0044 MUTH Amendment No. A-0712 Tabled A00712,84,2025-06-03 14:51:00,N,N,N,X,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 89 PN 0044 Final Passage,85,2025-06-03 14:54:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 377 PN 0323 PHILLIPS-HILL Amendment No. A-0761 A00761,86,2025-06-03 14:58:00,N,N,N,X,Y,Y,N,N,N,N,N,Y,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 377 PN 0323 PHILLIPS-HILL Amendment No. A-0761 Reconsideration A00761,87,2025-06-03 15:00:00,N,N,N,X,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 411 PN 0510 Final Passage,88,2025-06-03 15:03:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 682 PN 0671 Final Passage,89,2025-06-03 15:08:00,N,N,N,X,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 748 PN 0760 Motion to consider bill on second consideration,90,2025-06-04 11:18:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 376 PN 0322 Final Passage,91,2025-06-04 11:57:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 377 PN 0323 Final Passage,92,2025-06-04 12:01:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 686 PN 0755 Final Passage,93,2025-06-04 12:07:00,N,N,N,X,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y
+Senate Resolution 27 PN 0866,94,2025-06-04 12:14:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Executive Nominations (Attached),95,2025-06-04 12:18:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Weekly Recess,96,2025-06-09 13:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 95 PN 0050 HUGHES Amendment No. A-0975 A00975,97,2025-06-09 15:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 511 PN 0471 Final Passage,98,2025-06-09 15:04:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 649 PN 0705 PENNYCUICK Amendment No. A-0963 A00963,99,2025-06-09 15:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 64 PN 0509 BARTOLOTTA Amendment No. A-0995 A00995,100,2025-06-09 15:23:00,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+House Bill 257 PN 0203 Motion to consider the bill on second consideration,101,2025-06-10 13:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 95 PN 0918 Final Passage,102,2025-06-10 15:56:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 649 PN 0920 Final Passage,103,2025-06-10 16:01:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 109 PN 0062 Final Passage,104,2025-06-10 16:04:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 225 PN 0377 Final Passage,105,2025-06-10 16:10:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 333 PN 0895 Final Passage,106,2025-06-10 16:17:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 444 PN 0391 Final Passage,107,2025-06-10 16:20:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+House Bill 257 PN 0203 Re-referred to the Committee on Appropriations,108,2025-06-11 11:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 311 PN 0436 Final Passage,109,2025-06-11 12:06:00,N,Y,N,N,Y,Y,N,Y,Y,N,N,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,X,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y
+Senate Bill 719 PN 0862 Final Passage,110,2025-06-11 12:10:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 748 PN 0919 Final Passage,111,2025-06-11 12:12:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Resolution 119 PN 0897,112,2025-06-11 12:23:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Executive Nominations (Attached),113,2025-06-11 12:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Executive Nomination Pennsylvania Liquor Control Board James R. Brewster,114,2025-06-11 12:27:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 640 PN 0650 Motion to consider bill on second consideration,115,2025-06-23 13:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 527 PN 0500 Motion to table HAYWOOD Amendment No. A-1248 A01248,116,2025-06-23 16:14:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 527 PN 0500 Final Passage A01248,117,2025-06-23 16:31:00,N,N,N,N,N,Y,N,N,N,Y,N,N,Y,N,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 764 PN 0820 Final Passage,118,2025-06-23 16:33:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 240 PN 0192 Final Passage,119,2025-06-23 16:35:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 468 PN 0893 Final Passage,120,2025-06-23 16:39:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 640 PN 0650 Re-referred to the Committee on Appropriations,121,2025-06-24 13:14:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 88 PN 0981 Final Passage,122,2025-06-24 13:39:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 205 PN 0892 Final Passage,123,2025-06-24 16:31:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 375 PN 0934 Final Passage,124,2025-06-24 17:02:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 838 PN 0904 Final Passage,125,2025-06-24 17:03:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 842 PN 0914 Final Passage,126,2025-06-24 17:05:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
+Senate Bill 838 PN 0904 Final Passage - Reconsideration,127,2025-06-24 17:06:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, March 24, 2025",128,2025-06-25 11:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 1333 PN 1631 Final Passage,129,2025-06-25 13:38:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 1335 PN 1633 Final Passage,131,2025-06-25 13:39:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 1334 PN 1632 Final Passage,130,2025-06-25 13:39:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 1336 PN 1634 Final Passage,132,2025-06-25 13:41:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+House Bill 1337 PN 1635 Final Passage,133,2025-06-25 13:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+House Bill 1338 PN 1636 Final Passage,134,2025-06-25 13:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+House Bill 1339 PN 1869 Final Passage,135,2025-06-25 13:44:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+House Bill 1340 PN 1977 Final Passage,136,2025-06-25 13:45:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+House Bill 1420 PN 1644 Final Passage,137,2025-06-25 13:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+House Bill 1338 PN 1636 Final Passage - Reconsideration,138,2025-06-25 13:49:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 101 PN 0986 Final Passage,139,2025-06-25 13:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+House Bill 355 PN 1596 Final Passage,140,2025-06-25 13:53:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 739 PN 1006 Final Passage,141,2025-06-25 13:57:00,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 101 PN 0986 Final Passage - Reconsideration,142,2025-06-25 14:07:00,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Senate Bill 780 PN 0837 Motion to Table BOSCOLA Amendment No. A-1351 A01351,143,2025-06-25 14:12:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 780 PN 0837 Final Passage,144,2025-06-25 14:16:00,N,Y,N,N,Y,Y,N,N,N,Y,Y,N,Y,Y,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y
+Senate Bill 840 PN 0931 Reconsideration of request to go over,145,2025-06-25 14:46:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 840 PN 0931 Final Passage,146,2025-06-25 14:48:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+House Bill 799 PN 0823 MASTRIANO Amendment No. A-1327 A01327,147,2025-06-25 14:52:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Senate Bill 635 PN 1007 Final Passage,148,2025-06-25 15:03:00,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 491 PN 1294 Final Passage,150,2025-06-25 15:04:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 209 PN 0157 Final Passage,149,2025-06-25 15:04:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 715 PN 0727 Final Passage,151,2025-06-25 15:09:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Executive Nominations (Attached),152,2025-06-25 15:13:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, March 25, 2025",153,2025-06-26 10:19:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 103 PN 1999 Final Passage,154,2025-06-26 13:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 211 PN 0148 Final Passage,155,2025-06-26 13:16:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 261 PN 0169 Final Passage,156,2025-06-26 13:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 378 PN 1599 Final Passage,158,2025-06-26 13:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 309 PN 2013 Final Passage,157,2025-06-26 13:18:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 520 PN 1010 Final Passage,159,2025-06-26 13:22:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 553 PN 1938 Final Passage,160,2025-06-26 13:25:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 615 PN 0628 Final Passage,161,2025-06-26 13:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 640 PN 2037 Final Passage,162,2025-06-26 13:27:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 800 PN 0861 Final Passage,163,2025-06-26 13:29:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 1103 PN 1658 Final Passage,164,2025-06-26 13:30:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 304 PN 0257 Final Passage,165,2025-06-26 13:36:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 354 PN 2000 Final Passage,166,2025-06-26 13:38:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 779 PN 0843 Final Passage,167,2025-06-26 13:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 799 PN 2027 Final Passage,168,2025-06-26 13:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 865 PN 2010 Final Passage,169,2025-06-26 13:46:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 992 PN 1083 Final Passage,170,2025-06-26 13:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 78 PN 1011 Concur in House Amendments,171,2025-06-26 13:49:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 89 PN 0945 Concur in House Amendments,172,2025-06-26 13:51:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 411 PN 0944 Concur in House Amendments,174,2025-06-26 13:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 129 PN 1013 Concur in House Amendments,173,2025-06-26 13:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 518 PN 1014 Concur in House Amendments,175,2025-06-26 13:56:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 1431 PN 1998 DUSH Amendment No. A-1349 A01349,176,2025-06-26 14:20:00,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,N,Y,N,N,Y,N,N,N,Y,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,Y
+House Bill 1431 PN 1998 Final Passage,177,2025-06-26 14:37:00,N,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N,Y,Y,N,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N
+Senate Resolution 131 PN 1015,178,2025-06-26 15:10:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,N,Y
+"Approval of the Previous Days Journal, March 26, 2025",179,2025-06-30 14:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 766 PN 0987 Final Passage,180,2025-06-30 15:46:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y
+House Bill 1058 PN 2025 Final Passage,181,2025-06-30 15:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 640 PN 2052 Concur in House Amendments to Senate Amendments,182,2025-06-30 16:45:00,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 95 PN 1019 Concur in House Amendments,183,2025-06-30 16:47:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
+"Approval of the Previous Days Journal, March 31, 2025",184,2025-07-16 16:53:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 398 PN 0345 Final Passage,185,2025-07-16 17:42:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 416 PN 0403 Final Passage,186,2025-07-16 17:46:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 467 PN 0420 ARGALL Amendment No. A-1422 A01422,187,2025-07-16 17:49:00,N,N,N,N,Y,Y,Y,Y,Y,N,N,X,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, April 1, 2025",188,2025-07-17 09:43:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 467 PN 1057 Final Passage,189,2025-07-17 09:44:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 604 PN 0612 Final Passage,190,2025-07-17 09:54:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 877 PN 0977 Final Passage,191,2025-07-17 09:56:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 878 PN 0978 Final Passage,192,2025-07-17 09:58:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 467 PN 1057 Reconsideration - Final Passage,193,2025-07-17 10:00:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, April 2, 2025; May 5, 6, 7, 12, 13, 2025",194,2025-08-12 16:57:00,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 257 PN 0203 PITTMAN Amendment No. A-1615 A01615,195,2025-08-12 17:15:00,N,N,N,N,Y,Y,N,N,X,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+House Bill 257 PN 0203 Motion to Table SAVAL Amendment No. A-1617 A01617,196,2025-08-12 17:21:00,N,N,N,N,Y,Y,N,N,X,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+House Bill 257 PN 0203 Motion to Table BOSCOLA Amendment No. A-1637 A01637,197,2025-08-12 17:23:00,N,N,N,N,Y,Y,N,N,X,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+House Bill 257 PN 0203 Third Consideration as Amended,198,2025-08-12 17:26:00,N,N,N,N,Y,Y,N,N,X,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 381 PN 0328 PITTMAN Amendment No. A-1633 A01633,199,2025-08-12 17:49:00,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 160 PN 0529 Final Passage,200,2025-08-12 18:25:00,N,N,N,N,Y,Y,N,N,X,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Motion to Suspend Rule 12 Supplemental Calendar No. 2,201,2025-08-12 18:29:00,N,N,N,N,Y,Y,N,N,X,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+House Bill 257 PN 2211 Final Passage,202,2025-08-12 20:06:00,N,N,N,N,Y,Y,N,N,X,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, June 2, 3, 2025",203,2025-09-08 13:13:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,X,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 460 PN 0394 ARGALL Amendment No. A-1667 A01667,204,2025-09-08 15:25:00,Y,N,N,X,Y,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,X,Y,X,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 922 PN 1053 MARTIN Amendment No. A-1570 A01570,205,2025-09-08 15:30:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,X,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Senate Bill 533 PN 0519 Final Passage,206,2025-09-08 15:34:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,X,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, June 4, 9, 2025",207,2025-09-09 13:18:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 64 PN 0985 Final Passage,208,2025-09-09 14:45:00,Y,N,Y,X,Y,Y,N,N,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 114 PN 0751 Final Passage,209,2025-09-09 14:52:00,N,N,N,X,Y,Y,N,N,N,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 381 PN 1101 MASTRIANO Amendment No. A-1686 A01686,210,2025-09-09 14:55:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 460 PN 1150 Final Passage,211,2025-09-09 14:58:00,Y,N,N,X,Y,Y,N,Y,N,N,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y
+Senate Bill 114 PN 0751 Final Passage Reconsidered,212,2025-09-09 15:01:00,N,N,N,X,Y,Y,N,N,N,N,N,Y,Y,N,Y,Y,Y,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 922 PN 1151 Final Passage,213,2025-09-09 15:12:00,N,N,N,X,Y,Y,N,N,N,N,Y,N,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, June 10, 11, 2025",214,2025-09-10 11:17:00,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 65 PN 0486 Final Passage,215,2025-09-10 12:15:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 241 PN 0194 Final Passage,216,2025-09-10 12:20:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 381 PN 1157 Final Passage,217,2025-09-10 12:28:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 713 PN 1152 Final Passage,218,2025-09-10 12:32:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 952 PN 1153 Motion to move the previous question to SAVAL Amendment No. A-1691 A01691,219,2025-09-10 12:39:00,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,Y,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,N
+Senate Bill 952 PN 1153 Motion to Table SAVAL Amendment No. A-1691 A01691,220,2025-09-10 12:43:00,N,N,N,N,N,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 952 PN 1153 Motion for the Previous Question,221,2025-09-10 12:46:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Senate Bill 952 PN 1153 Final Passage,222,2025-09-10 12:49:00,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+Weekly Recess,223,2025-10-06 13:12:00,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 432 PN 0935 PENNYCUICK Amendment No. A-1196 A01196,224,2025-10-06 14:34:00,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 784 PN 0808 Final Passage,225,2025-10-06 14:38:00,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 914 PN 1090 FARRY Amendment No. A-1835 A01835,226,2025-10-06 14:39:00,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, June 23, 24, 25, 2025",227,2025-10-07 13:14:00,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 18 PN 1974 Final Passage,228,2025-10-07 14:35:00,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 414 PN 0390 Final Passage,229,2025-10-07 14:37:00,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 914 PN 1210 Final Passage,230,2025-10-07 14:42:00,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 955 PN 1084 Final Passage,231,2025-10-07 14:45:00,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+House Bill 1405 PN 1604 Final Passage,232,2025-10-07 14:47:00,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 1040 PN 1208 Motion to Agree on 2nd Consideration,233,2025-10-07 14:51:00,N,N,N,N,Y,Y,N,X,N,N,X,N,Y,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
+"Approval of the Previous Days Journal, June 26, 30, 2025",234,2025-10-08 10:26:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Senate Bill 432 PN 1209 Final Passage,235,2025-10-08 11:17:00,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,X,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+Senate Bill 1040 PN 1208 Final Passage,236,2025-10-08 12:00:00,N,N,N,N,Y,Y,N,N,N,N,X,N,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y
